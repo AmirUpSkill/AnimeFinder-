@@ -1,1 +1,1 @@
-# SQLAlchemy models package
+from .animal import Animal
